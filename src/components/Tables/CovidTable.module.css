@@ -1,0 +1,10 @@
+.table {
+    overflow: scroll;
+    height: 500px;
+}
+.infoFlag {
+    height: 40px;
+    width: 80px;
+    background-size: 100%;
+    border-radius: 8px;
+}

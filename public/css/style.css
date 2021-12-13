@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "ih";
+    src: url("../fonts/IH-Pe.eot");
+    src: url("../fonts/IH-Pe.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/IH-Pe.woff2") format("woff2"),
+        url("../fonts/IH-Pe.woff") format("woff"),
+        url("../fonts/IH-Pe.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "yekan";
+    src: url("../fonts/BYekan.eot");
+    src: url("../fonts/BYekan.eot") format("embedded-opentype"),
+        url("../fonts/BYekan.woff2") format("woff2"),
+        url("../fonts/BYekan.woff") format("woff"),
+        url("../fonts/BYekan.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

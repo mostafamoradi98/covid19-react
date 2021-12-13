@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(250, 250, 250);
+    font-family: "ih", tahoma;
+}
+
+.container {
+    flex-grow: 1;
+}
+
+
+@media (max-width: 770px) {
+    .container {
+        margin: 0 10%;
+    }
+    
+}
